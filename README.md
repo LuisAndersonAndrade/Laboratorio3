@@ -38,7 +38,7 @@ tabla 3.1.
 
 5.	MARCO TEÓRICO
 
-
+![Concept Mapping Whiteboard in Orange Purple Basic Style (1)](https://user-images.githubusercontent.com/117800753/206700083-492e9b6d-4e5b-460d-b41f-f93b963508d5.png)
 
 6.	EXPLICACIÓN DEL PROCEDIMIENTO.
 
@@ -88,7 +88,7 @@ Podemos ver en el circuito que existen 5 nodos, 3 nodos principales y 2 nodos fa
 
 7.	VIDEO
 
-
+https://youtu.be/wiqg8wqaAiU
 
 8.	CONCLUSIONES
 
